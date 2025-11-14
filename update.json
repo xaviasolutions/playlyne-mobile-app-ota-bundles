@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "downloadAndroidUrl": "https://playlyne-mobile-app-ota-bundles.vercel.app/android/output.zip",
   "downloadIosUrl": "https://playlyne-mobile-app-ota-bundles.vercel.app/ios/output.zip"
 }
