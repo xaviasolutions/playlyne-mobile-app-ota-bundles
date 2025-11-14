@@ -1,5 +1,5 @@
 {
-  "version": 8,
-  "downloadAndroidUrl": "https://raw.githubusercontent.com/xaviasolutions/playlyne-mobile-app-ota-bundles/main/android/output.zip",
-  "downloadIosUrl": "https://raw.githubusercontent.com/xaviasolutions/playlyne-mobile-app-ota-bundles/main/ios/output.zip"
+  "version": 9,
+  "downloadAndroidUrl": "https://playlyne-mobile-app-ota-bundles.vercel.app/android/output.zip",
+  "downloadIosUrl": "https://playlyne-mobile-app-ota-bundles.vercel.app/ios/output.zip"
 }
