@@ -1,5 +1,5 @@
 {
-    "version": 1,
-    "downloadAndroidUrl": "https://raw.githubusercontent.com/xaviasolutions/playlyne-mobile-app-ota-bundles/main/android/output.zip",
-    "downloadIosUrl": "https://raw.githubusercontent.com/xaviasolutions/playlyne-mobile-app-ota-bundles/main/ios/output.zip"
+  "version": 2,
+  "downloadAndroidUrl": "https://raw.githubusercontent.com/xaviasolutions/playlyne-mobile-app-ota-bundles/main/android/output.zip",
+  "downloadIosUrl": "https://raw.githubusercontent.com/xaviasolutions/playlyne-mobile-app-ota-bundles/main/ios/output.zip"
 }
